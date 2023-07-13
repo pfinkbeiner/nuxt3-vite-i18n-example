@@ -1,0 +1,18 @@
+{
+  "name": "nuxt3-vite-i18n-example",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@intlify/unplugin-vue-i18n": "^0.12.2",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "^8.0.0-beta.13",
+    "@types/node": "^18.16.19",
+    "nuxt": "^3.6.2"
+  }
+}
